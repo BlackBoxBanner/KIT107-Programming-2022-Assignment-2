@@ -9,3 +9,6 @@ typedef struct quarter_format {
   int score;
 } quarter_format;
 
+int mian(){
+  return 0;
+}
