@@ -5,9 +5,11 @@
 
 //define a type called quarter_format
 typedef struct quarter_format {
-  int goal;
-  int score;
+  int shots;
+  int behide;
 } quarter_format;
+
+//this is the test comment
 
 int mian(){
   return 0;
